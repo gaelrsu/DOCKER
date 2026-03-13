@@ -12,7 +12,7 @@
    │                                             │
    │  /var/lib/docker/volumes/   ←── Volume      │
    │  /home/user/monprojet/      ←── Bind Mount  │
-   │  RAM (mémoire)              ←── tmpfs        │
+   │  RAM (mémoire)              ←── tmpfs       │
    │                                             │
    └────────────┬────────────────────────────────┘
                 │ montage
